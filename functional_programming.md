@@ -41,3 +41,5 @@ Here comes the list of things that **we KINDA doesn't know**:
 - Subdomains
 
 For any given input it always gives you the same output.
+
+> Pause : 19:55
