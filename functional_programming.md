@@ -42,4 +42,7 @@ Here comes the list of things that **we KINDA doesn't know**:
 
 For any given input it always gives you the same output.
 
+> Its feels like you are programming using handcuffs (??)
 > Pause : 19:55
+
+> return : 21:30
