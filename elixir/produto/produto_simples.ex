@@ -6,7 +6,7 @@ defmodule Product do
   end
 
   def treat_number(num) do
-    String.to_integer(String.trim(num))
+    num |> String.trim |> String.to_integer
   end
 
   def product(a, b) do
